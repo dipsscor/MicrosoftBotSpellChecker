@@ -3,7 +3,7 @@ Spring boot based Spell checker BOT Service using Microsoft BOT Framework.
 The Service uses a dictionary of words to rectify the user input wit correct wordings 
 
 
-#Installation
+# Installation
    1. Download the code and run as Springboot app
    2. Download Microsoft Bot Emulator: https://github.com/Microsoft/BotFramework-Emulator/releases and install.
    3. Create a New BOT Service
