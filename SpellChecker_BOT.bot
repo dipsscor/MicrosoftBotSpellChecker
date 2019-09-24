@@ -1,0 +1,18 @@
+{
+    "name": "SpellChecker_BOT",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:12005/V1.0/MicrosoftSpellChecker/api/messages",
+            "id": "ba9e9f70-de6d-11e9-a08d-dd9d6306aedf",
+            "name": "http://localhost:12005/V1.0/MicrosoftSpellChecker/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\D-DRIVE\\Work\\eclipse_Workspace\\MicrosoftBotSpellChecker\\SpellChecker_BOT.bot"
+}
