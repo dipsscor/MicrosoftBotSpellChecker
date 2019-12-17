@@ -3,7 +3,7 @@ Spring boot based Spell checker BOT Service using Microsoft BOT Framework.
 The Service uses a dictionary of words to rectify the user input wit correct wordings 
 
 
-![](https://github.com/dipsscor/MicrosoftBotSpellChecker/tree/master/.github/workflows/Java CI/badge.svg)
+![](https://github.com/dipsscor/MicrosoftBotSpellChecker/tree/master/.github/workflows/Java_CI/badge.svg)
 
 
 # Installation
