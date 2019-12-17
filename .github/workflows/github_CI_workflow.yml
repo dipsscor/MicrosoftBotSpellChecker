@@ -2,17 +2,7 @@ name: Java_CI
 
 on: [push]
 
-jobs:
-  slackNotification:
-    name: Slack Notification
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@master
-    - name: Slack Notification
-      uses: rtCamp/action-slack-notify@master
-      env:
-        SLACK_WEBHOOK: https://hooks.slack.com/services/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
-    
+jobs:   
   build:
 
     runs-on: ubuntu-latest
